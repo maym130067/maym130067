@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Micah
+- 👀 I’m interested in software engineering, cyber security, and game creation.
+- 🌱 I’m currently learning java and linux on the pathway to a bachelor's in Computer Information Systems.
+- 💞️ I’m looking to collaborate on games or software.
+- 📫 You can reach me on GitHub or by email maym130067@student.vvc.edu
+- ⚡ Fun fact: I am going to college to hopefully attain a career in IT.
